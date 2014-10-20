@@ -5,7 +5,7 @@ Documentación del proyecto
 
 Aspectos técnicos de cada historia de usuario. 
 
-El usuario que perdió a si perro entra a la aplicación, llena un pequeño formulario describiendo a su perro, marca su ubicación (o donde hayas perdido a su perro), y lo envía. 
+El usuario que perdió a su perro entra a la aplicación, llena un pequeño formulario describiendo a su perro, marca su ubicación (o donde hayas perdido a su perro), y lo envía. 
 El usuario que haya encontrado a un perro, entra a la aplicación, llena un formulario describiendo al perro que a encontrado, marca su ubicación (en caso de que no lo haya recogido) o comenta que lo recogió, y lo sube. 
 El usuario entra a la aplicación, llena un formulario con aspectos básicos de su mascota, sube una foto, y genera su perfil.
 
