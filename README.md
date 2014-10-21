@@ -50,5 +50,5 @@ Crearemos una app nativa android.
 Crearemos un api en rails con un framework. 
 Crearemos un pagina web. 
 
-Ocuparemos android, node, mongodb, un frameworks. 
+Ocuparemos polymer, android, node, express, mongodb, un frameworks. 
 
